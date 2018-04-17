@@ -11,4 +11,5 @@ Update from local repo
 
 Edit remotely.
 
+Edit from develop branch
 This will cause conflicts as this was edited remoitely.
