@@ -15,3 +15,7 @@ Edit from develop branch
 This will cause conflicts as this was edited remoitely.
 
 modified on 18
+
+Terms:
+
+U need to accept terms....
